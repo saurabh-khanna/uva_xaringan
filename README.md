@@ -1,8 +1,8 @@
 # Sydney xaringan
 
-University of Sydney theme for xaringan (remark.js)
+University of Amsterdam theme for xaringan (remark.js)
 
-Example and guide here: http://garthtarr.github.io/sydney_xaringan
+Template credits: http://garthtarr.github.io/sydney_xaringan
 
 To get started you will likely need:
 
