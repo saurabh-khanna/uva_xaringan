@@ -2,8 +2,6 @@
 
 University of Amsterdam theme for xaringan (remark.js)
 
-Template credits: http://garthtarr.github.io/sydney_xaringan
-
 To get started you will likely need:
 
 ```r
@@ -20,5 +18,7 @@ To run the example, you may also need to follow the instructions [here](https://
 ```r
 icons::download_fontawesome()
 ```
+
+Template credits: http://garthtarr.github.io/sydney_xaringan
 
 For further customisation you might consider the [xaringanExtra](https://github.com/gadenbuie/xaringanExtra) package.
