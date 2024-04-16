@@ -1,4 +1,4 @@
-# Sydney xaringan
+# UvA xaringan
 
 University of Amsterdam theme for xaringan (remark.js)
 
